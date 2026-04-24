@@ -1,0 +1,5 @@
+node -v "To check node js vesion"
+git -v "To check git version"
+ls "To checking saved and uhsaved folders/files"
+mkdir SIB4J-WEB "To create a folder"
+cd SIB4J-WEB "To check or use the folder"
