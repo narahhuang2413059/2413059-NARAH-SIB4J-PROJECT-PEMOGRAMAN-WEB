@@ -1,0 +1,3 @@
+npm -v "To check npm version"
+pnpm -v "To check pnpm version"
+npm install -g pnpm "To install pnpm"
